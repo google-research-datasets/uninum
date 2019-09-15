@@ -15,9 +15,13 @@ If you find errors in this database, please feel free to submit corrections.
 
 For more information about this database, please see:
 
-Gorman, K., and Sproat, R. 2016. Minimally supervised number normalization. _Transactions of the Association for Computational Linguistics_ 4: 507-519.
+Gorman, K., and Sproat, R. 2016.
+[Minimally supervised number normalization](https://www.transacl.org/ojs/index.php/tacl/article/view/897/213).
+_Transactions of the Association for Computational Linguistics_ 4: 507-519.
 
-Ritchie, S., Sproat, R., Gorman, K., van Esch, D., Schallhart, C., Bampounis, N., Brard, B., Mortensen, J. F., Holt, M., and Mahon, E. 2019. Unified verbalization for speech recognition & synthesis across languages. In _Proc. INTERSPEECH_, pages 3530-3534.
+Ritchie, S., Sproat, R., Gorman, K., van Esch, D., Schallhart, C., Bampounis, N., Brard, B., Mortensen, J. F., Holt, M., and Mahon, E. 2019.
+[Unified verbalization for speech recognition & synthesis across languages](https://www.isca-speech.org/archive/Interspeech_2019/pdfs/2807.pdf).
+In _Proc. INTERSPEECH_, pages 3530-3534.
 
 If you use UniNum in your research, the authors would appreciate if you refer
 your readers to the Ritchie et al. paper, and to this repository.
