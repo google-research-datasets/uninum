@@ -1,0 +1,110 @@
+0	xoom
+1	ib
+2	ob
+3	peb
+4	plaub
+5	tsib
+6	rau
+7	xya
+8	yim
+9	cuaj
+10	kaum
+11	kaum ib
+12	kaum ob
+13	kaum peb
+14	kaum plaub
+15	kaum tsib
+16	kaum rau
+17	kaum xya
+18	kaum yim
+19	kaum cuaj
+20	nees nkaum
+21	nees nkaum ib
+22	nees nkaum ob
+23	nees nkaum peb
+24	nees nkaum plaub
+25	nees nkaum tsib
+26	nees nkaum rau
+27	nees nkaum xya
+28	nees nkaum yim
+29	nees nkaum cuaj
+30	peb caug
+31	peb caug ib
+32	peb caug ob
+33	peb caug peb
+34	peb caug plaub
+35	peb caug tsib
+36	peb caug rau
+37	peb caug xya
+38	peb caug yim
+39	peb caug cuaj
+40	plaub caug
+41	plaub caug ib
+42	plaub caug ob
+43	plaub caug peb
+44	plaub caug plaub
+45	plaub caug tsib
+46	plaub caug rau
+47	plaub caug xya
+48	plaub caug yim
+49	plaub caug cuaj
+50	tsib caug
+51	tsib caug ib
+52	tsib caug ob
+53	tsib caug peb
+54	tsib caug plaub
+55	tsib caug tsib
+56	tsib caug rau
+57	tsib caug xya
+58	tsib caug yim
+59	tsib caug cuaj
+60	rau caum
+61	rau caum ib
+62	rau caum ob
+63	rau caum peb
+64	rau caum plaub
+65	rau caum tsib
+66	rau caum rau
+67	rau caum xya
+68	rau caum yim
+69	rau caum cuaj
+70	xya caum
+71	xya caum ib
+72	xya caum ob
+73	xya caum peb
+74	xya caum plaub
+75	xya caum tsib
+76	xya caum rau
+77	xya caum xya
+78	xya caum yim
+79	xya caum cuaj
+80	yim caum
+81	yim caum ib
+82	yim caum ob
+83	yim caum peb
+84	yim caum plaub
+85	yim caum tsib
+86	yim caum rau
+87	yim caum xya
+88	yim caum yim
+89	yim caum cuaj
+90	cuaj caum
+91	cuaj caum ib
+92	cuaj caum ob
+93	cuaj caum peb
+94	cuaj caum plaub
+95	cuaj caum tsib
+96	cuaj caum rau
+97	cuaj caum xya
+98	cuaj caum yim
+99	cuaj caum cuaj
+100	ib puas
+1000	ib txhiab
+10000	kaum txhiab
+100000	ib puas txhiab
+1000000	ib lab
+10000000	kaum lab
+100000000	ib puas lab
+1000000000	ib txhiab lab
+10000000000	kaum txhiab lab
+100000000000	ib puas txhiab lab

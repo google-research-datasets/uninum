@@ -1,0 +1,110 @@
+0	nul
+1	unu
+2	du
+3	tri
+4	kvar
+5	kvin
+6	ses
+7	sep
+8	ok
+9	naŭ
+10	dek
+11	dek unu
+12	dek du
+13	dek tri
+14	dek kvar
+15	dek kvin
+16	dek ses
+17	dek sep
+18	dek ok
+19	dek naŭ
+20	du dek
+21	du dek unu
+22	du dek du
+23	du dek tri
+24	du dek kvar
+25	du dek kvin
+26	du dek ses
+27	du dek sep
+28	du dek ok
+29	du dek naŭ
+30	tri dek
+31	tri dek unu
+32	tri dek du
+33	tri dek tri
+34	tri dek kvar
+35	tri dek kvin
+36	tri dek ses
+37	tri dek sep
+38	tri dek ok
+39	tri dek naŭ
+40	kvar dek
+41	kvar dek unu
+42	kvar dek du
+43	kvar dek tri
+44	kvar dek kvar
+45	kvar dek kvin
+46	kvar dek ses
+47	kvar dek sep
+48	kvar dek ok
+49	kvar dek naŭ
+50	kvin dek
+51	kvin dek unu
+52	kvin dek du
+53	kvin dek tri
+54	kvin dek kvar
+55	kvin dek kvin
+56	kvin dek ses
+57	kvin dek sep
+58	kvin dek ok
+59	kvin dek naŭ
+60	ses dek
+61	ses dek unu
+62	ses dek du
+63	ses dek tri
+64	ses dek kvar
+65	ses dek kvin
+66	ses dek ses
+67	ses dek sep
+68	ses dek ok
+69	ses dek naŭ
+70	sep dek
+71	sep dek unu
+72	sep dek du
+73	sep dek tri
+74	sep dek kvar
+75	sep dek kvin
+76	sep dek ses
+77	sep dek sep
+78	sep dek ok
+79	sep dek naŭ
+80	ok dek
+81	ok dek unu
+82	ok dek du
+83	ok dek tri
+84	ok dek kvar
+85	ok dek kvin
+86	ok dek ses
+87	ok dek sep
+88	ok dek ok
+89	ok dek naŭ
+90	naŭ dek
+91	naŭ dek unu
+92	naŭ dek du
+93	naŭ dek tri
+94	naŭ dek kvar
+95	naŭ dek kvin
+96	naŭ dek ses
+97	naŭ dek sep
+98	naŭ dek ok
+99	naŭ dek naŭ
+100	cent
+1000	mil
+10000	dek mil
+100000	cent mil
+1000000	miliono
+10000000	dek milionoj
+100000000	cent milionoj
+1000000000	miliardo
+10000000000	dek miliardoj
+100000000000	cent miliardoj

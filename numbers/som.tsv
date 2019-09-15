@@ -1,0 +1,110 @@
+0	eber
+1	kow
+2	labo
+3	saddex
+4	afar
+5	shan
+6	lix
+7	toddobo
+8	siddeed
+9	sagaal
+10	toban
+11	toban iyo kow
+12	toban iyo labo
+13	toban iyo saddex
+14	toban iyo afar
+15	toban iyo shan
+16	toban iyo lix
+17	toban iyo toddobo
+18	toban iyo siddeed
+19	toban iyo sagaal
+20	labaatan
+21	labaatan iyo kow
+22	labaatan iyo labo
+23	labaatan iyo saddex
+24	labaatan iyo afar
+25	labaatan iyo shan
+26	labaatan iyo lix
+27	labaatan iyo toddobo
+28	labaatan iyo siddeed
+29	labaatan iyo sagaal
+30	soddon
+31	soddon iyo kow
+32	soddon iyo labo
+33	soddon iyo saddex
+34	soddon iyo afar
+35	soddon iyo shan
+36	soddon iyo lix
+37	soddon iyo toddobo
+38	soddon iyo siddeed
+39	soddon iyo sagaal
+40	afartan
+41	afartan iyo kow
+42	afartan iyo labo
+43	afartan iyo saddex
+44	afartan iyo afar
+45	afartan iyo shan
+46	afartan iyo lix
+47	afartan iyo toddobo
+48	afartan iyo siddeed
+49	afartan iyo sagaal
+50	konton
+51	konton iyo kow
+52	konton iyo labo
+53	konton iyo saddex
+54	konton iyo afar
+55	konton iyo shan
+56	konton iyo lix
+57	konton iyo toddobo
+58	konton iyo siddeed
+59	konton iyo sagaal
+60	lixdan
+61	lixdan iyo kow
+62	lixdan iyo labo
+63	lixdan iyo saddex
+64	lixdan iyo afar
+65	lixdan iyo shan
+66	lixdan iyo lix
+67	lixdan iyo toddobo
+68	lixdan iyo siddeed
+69	lixdan iyo sagaal
+70	toddobaatan
+71	toddobaatan iyo kow
+72	toddobaatan iyo labo
+73	toddobaatan iyo saddex
+74	toddobaatan iyo afar
+75	toddobaatan iyo shan
+76	toddobaatan iyo lix
+77	toddobaatan iyo toddobo
+78	toddobaatan iyo siddeed
+79	toddobaatan iyo sagaal
+80	siddeetan
+81	siddeetan iyo kow
+82	siddeetan iyo labo
+83	siddeetan iyo saddex
+84	siddeetan iyo afar
+85	siddeetan iyo shan
+86	siddeetan iyo lix
+87	siddeetan iyo toddobo
+88	siddeetan iyo siddeed
+89	siddeetan iyo sagaal
+90	sagaashan
+91	sagaashan iyo kow
+92	sagaashan iyo labo
+93	sagaashan iyo saddex
+94	sagaashan iyo afar
+95	sagaashan iyo shan
+96	sagaashan iyo lix
+97	sagaashan iyo toddobo
+98	sagaashan iyo siddeed
+99	sagaashan iyo sagaal
+100	boqol
+1000	kun
+10000	toban kun
+100000	boqol oo kun
+1000000	malyan
+10000000	toban malyan
+100000000	boqol oo malyan
+1000000000	bilyan
+10000000000	toban bilyan
+100000000000	boqol oo bilyan

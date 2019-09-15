@@ -1,0 +1,109 @@
+1	isa
+2	dalawa
+3	tatlo
+4	apat
+5	lima
+6	anim
+7	pito
+8	walo
+9	siyam
+10	sampu
+11	labing isa
+12	labindalawa
+13	labintatlo
+14	labing apat
+15	labinlima
+16	labing anim
+17	labimpito
+18	labingwalo
+19	labinsiyam
+20	dalawampu
+21	dalawampu't isa
+22	dalawampu't dalawa
+23	dalawampu't tatlo
+24	dalawampu't apat
+25	dalawampu't lima
+26	dalawampu't anim
+27	dalawampu't pito
+28	dalawampu't walo
+29	dalawampu't siyam
+30	tatlumpu
+31	tatlumpu't isa
+32	tatlumpu't dalawa
+33	tatlumpu't tatlo
+34	tatlumpu't apat
+35	tatlumpu't lima
+36	tatlumpu't anim
+37	tatlumpu't pito
+38	tatlumpu't walo
+39	tatlumpu't siyam
+40	apatnapu
+41	apatnapu't isa
+42	apatnapu't dalawa
+43	apatnapu't tatlo
+44	apatnapu't apat
+45	apatnapu't lima
+46	apatnapu't anim
+47	apatnapu't pito
+48	apatnapu't walo
+49	apatnapu't siyam
+50	limampu
+51	limampu't isa
+52	limampu't dalawa
+53	limampu't tatlo
+54	limampu't apat
+55	limampu't lima
+56	limampu't anim
+57	limampu't pito
+58	limampu't walo
+59	limampu't siyam
+60	animnapu
+61	animnapu't isa
+62	animnapu't dalawa
+63	animnapu't tatlo
+64	animnapu't apat
+65	animnapu't lima
+66	animnapu't anim
+67	animnapu't pito
+68	animnapu't walo
+69	animnapu't siyam
+70	pitumpu
+71	pitumpu't isa
+72	pitumpu't dalawa
+73	pitumpu't tatlo
+74	pitumpu't apat
+75	pitumpu't lima
+76	pitumpu't anim
+77	pitumpu't pito
+78	pitumpu't walo
+79	pitumpu't siyam
+80	walumpu
+81	walumpu't isa
+82	walumpu't dalawa
+83	walumpu't tatlo
+84	walumpu't apat
+85	walumpu't lima
+86	walumpu't anim
+87	walumpu't pito
+88	walumpu't walo
+89	walumpu't siyam
+90	siyamnapu
+91	siyamnapu't isa
+92	siyamnapu't dalawa
+93	siyamnapu't tatlo
+94	siyamnapu't apat
+95	siyamnapu't lima
+96	siyamnapu't anim
+97	siyamnapu't pito
+98	siyamnapu't walo
+99	siyamnapu't siyam
+100	isandaan
+1000	isang libo
+10000	sampung libo
+100000	isandaang libo
+1000000	isang milyon
+10000000	sampung milyon
+100000000	isandaang milyon
+1000000000	isang bilyon
+10000000000	sampung bilyon
+100000000000	isandaang bilyon

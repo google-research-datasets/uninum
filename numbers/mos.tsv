@@ -1,0 +1,110 @@
+0	zaalem
+1	yé
+2	yi
+3	taabo
+4	naassé
+5	nou
+6	yoobé
+7	yopoé
+8	nii
+9	wai
+10	piiga
+11	piig la yé, piig la a yé
+12	piig la yi, piig la a yi
+13	piig la taabo, piig la a taabo
+14	piig la naassé, piig la a naassé
+15	piig la nou, piig la a nou
+16	piig la yoobé, piig la a yoobé
+17	piig la yopoé, piig la a yopoé
+18	piig la nii, piig la a nii
+19	piig la wai, piig la a wai
+20	pisi
+21	pisi la yé, pisi la a yé
+22	pisi la yi, pisi la a yi
+23	pisi la taabo, pisi la a taabo
+24	pisi la naassé, pisi la a naassé
+25	pisi la nou, pisi la a nou
+26	pisi la yoobé, pisi la a yoobé
+27	pisi la yopoé, pisi la a yopoé
+28	pisi la nii, pisi la a nii
+29	pisi la wai, pisi la a wai
+30	pistan
+31	pistan la yé, pista la a yé
+32	pistan la yi, pista la a yi
+33	pistan la taabo, pistan la a taabo
+34	pistan la naassé, pista la a naassé
+35	pistan la nou, pista la a nou
+36	pistan la yoobé, pista la a yoobé
+37	pistan la yopoé, pista la a yopoé
+38	pistan la nii, pista la a nii
+39	pistan la wai, pista la a wai
+40	pisnaassé
+41	pisnaassé la yé, pisnaassé la a yé
+42	pisnaassé la yi, pisnaassé la a yi
+43	pisnaassé la taabo, pisnaassé la a taabo
+44	pisnaassé la naassé, pisnaassé la a naassé
+45	pisnaassé la nou, pisnaassé la a nou
+46	pisnaassé la yoobé, pisnaassé la a yoobé
+47	pisnaassé la yopoé, pisnaassé la a yopoé
+48	pisnaassé la nii, pisnaassé la a nii
+49	pisnaassé la wai, pisnaassé la a wai
+50	pisnou
+51	pisnou la yé, pisnou la a yé
+52	pisnou la yi, pisnou la a yi
+53	pisnou la tan, pisnou la a taabo
+54	pisnou la naassé, pisnou la a naassé
+55	pisnou la nou, pisnou la a nou
+56	pisnou la yoobé, pisnou la a yoobé
+57	pisnou la yopoé, pisnou la a yopoé
+58	pisnou la nii, pisnou la a nii
+59	pisnou la wai, pisnou la a wai
+60	pisyoobé
+61	pisyoobé la yé, pisyoobé la a yé
+62	pisyoobé la yi, pisyoobé la a yi
+63	pisyoobé la tan, pisyoobé la a taabo
+64	pisyoobé la naassé, pisyoobé la a naassé
+65	pisyoobé la nou, pisyoobé la a nou
+66	pisyoobé la yoobé, pisyoobé la a yoobé
+67	pisyoobé la yopoé, pisyoobé la a yopoé
+68	pisyoobé la nii, pisyoobé la a nii
+69	pisyoobé la wai, pisyoobé la a wai
+70	pisyopoé
+71	pisyopoé la yé, pisyopoé la a yé
+72	pisyopoé la yi, pisyopoé la a yi
+73	pisyopoé la tan, pisyopoé la a taabo
+74	pisyopoé la naassé, pisyopoé la a naassé
+75	pisyopoé la nou, pisyopoé la a nou
+76	pisyopoé la yoobé, pisyopoé la a yoobé
+77	pisyopoé la yopoé, pisyopoé la a yopoé
+78	pisyopoé la nii, pisyopoé la a nii
+79	pisyopoé la wai, pisyopoé la a wai
+80	pisnii
+81	pisnii la yé, pisnii la a yé
+82	pisnii la yi, pisnii la a yi
+83	pisnii la taabo, pisnii la a taabo
+84	pisnii la naassé, pisnii la a naassé
+85	pisnii la nou, pisnii la a nou
+86	pisnii la yoobé, pisnii la a yoobé
+87	pisnii la yopoé, pisnii la a yopoé
+88	pisnii la nii, pisnii la a nii
+89	pisnii la wai, pisnii la a wai
+90	piswai
+91	piswai la yé, piswai la a yé
+92	piswai la yi, piswai la a yi
+93	piswai la taabo, piswai la a taabo
+94	piswai la naassé, piswouai la a naassé
+95	piswai la nou, piswouai la a nou
+96	piswai la yoobé, piswai la a yoobé
+97	piswai la yopoé, piswai la a yopoé
+98	piswai la nii, piswai la a nii
+99	piswai la wai, piswai la a wai
+100	koabga
+1000	tousr, tousri
+10000	tous piiga
+100000	tous koabga
+1000000	milyõ yé
+10000000	milyõ piiga
+100000000	milyõ koabga
+1000000000	milyaare yé
+10000000000	milyaare piiga
+100000000000	milyaare koabga

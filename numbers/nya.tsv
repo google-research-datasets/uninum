@@ -1,0 +1,110 @@
+0	ziro
+1	imodzi
+2	ziwiri
+3	zitatu
+4	zinayi
+5	zisanu
+6	zisanu ndi imodzi
+7	zisanu ndi ziwiri
+8	zisanu ndi zitatu
+9	zisanu ndi zinayi
+10	khumi
+11	khumi ndi imodzi
+12	khumi ndi ziwiri
+13	khumi ndi zitatu
+14	khumi ndi zinayi
+15	khumi ndi zisanu
+16	khumi ndi zisanu ndi imodzi
+17	khumi ndi zisanu ndi ziwiri
+18	khumi ndi zisanu ndi zitatu
+19	khumi ndi zisanu ndi zinayi
+20	makumi awiri
+21	makumi awiri ndi imodzi
+22	makumi awiri ndi ziwiri
+23	makumi awiri ndi zitatu
+24	makumi awiri ndi zinayi
+25	makumi awiri ndi zisanu
+26	makumi awiri ndi zisanu ndi imodzi
+27	makumi awiri ndi zisanu ndi ziwiri
+28	makumi awiri ndi zisanu ndi zitatu
+29	makumi awiri ndi zisanu ndi zinayi
+30	makumi atatu
+31	makumi atatu ndi imodzi
+32	makumi atatu ndi ziwiri
+33	makumi atatu ndi zitatu
+34	makumi atatu ndi zinayi
+35	makumi atatu ndi zisanu
+36	makumi atatu ndi zisanu ndi imodzi
+37	makumi atatu ndi zisanu ndi ziwiri
+38	makumi atatu ndi zisanu ndi zitatu
+39	makumi atatu ndi zisanu ndi zinayi
+40	makumi anayi
+41	makumi anayi ndi imodzi
+42	makumi anayi ndi ziwiri
+43	makumi anayi ndi zitatu
+44	makumi anayi ndi zinayi
+45	makumi anayi ndi zisanu
+46	makumi anayi ndi zisanu ndi imodzi
+47	makumi anayi ndi zisanu ndi ziwiri
+48	makumi anayi ndi zisanu ndi zitatu
+49	makumi anayi ndi zisanu ndi zinayi
+50	makumi asanu
+51	makumi asanu ndi imodzi
+52	makumi asanu ndi ziwiri
+53	makumi asanu ndi zitatu
+54	makumi asanu ndi zinayi
+55	makumi asanu ndi zisanu
+56	makumi asanu ndi zisanu ndi imodzi
+57	makumi asanu ndi zisanu ndi ziwiri
+58	makumi asanu ndi zisanu ndi zitatu
+59	makumi asanu ndi zisanu ndi zinayi
+60	makumi asanu ndi limodzi
+61	makumi asanu ndi limodzi ndi imodzi
+62	makumi asanu ndi limodzi ndi ziwiri
+63	makumi asanu ndi limodzi ndi zitatu
+64	makumi asanu ndi limodzi ndi zinayi
+65	makumi asanu ndi limodzi ndi zisanu
+66	makumi asanu ndi limodzi ndi zisanu ndi imodzi
+67	makumi asanu ndi limodzi ndi zisanu ndi ziwiri
+68	makumi asanu ndi limodzi ndi zisanu ndi zitatu
+69	makumi asanu ndi limodzi ndi zisanu ndi zinayi
+70	makumi asanu ndi ziwiri
+71	makumi asanu ndi ziwiri ndi imodzi
+72	makumi asanu ndi ziwiri ndi ziwiri
+73	makumi asanu ndi ziwiri ndi zitatu
+74	makumi asanu ndi ziwiri ndi zinayi
+75	makumi asanu ndi ziwiri ndi zisanu
+76	makumi asanu ndi ziwiri ndi zisanu ndi imodzi
+77	makumi asanu ndi ziwiri ndi zisanu ndi ziwiri
+78	makumi asanu ndi ziwiri ndi zisanu ndi zitatu
+79	makumi asanu ndi ziwiri ndi zisanu ndi zinayi
+80	makumi asanu ndi atatu
+81	makumi asanu ndi atatu ndi imodzi
+82	makumi asanu ndi atatu ndi ziwiri
+83	makumi asanu ndi atatu ndi zitatu
+84	makumi asanu ndi atatu ndi zinayi
+85	makumi asanu ndi atatu ndi zisanu
+86	makumi asanu ndi atatu ndi zisanu ndi imodzi
+87	makumi asanu ndi atatu ndi zisanu ndi ziwiri
+88	makumi asanu ndi atatu ndi zisanu ndi zitatu
+89	makumi asanu ndi atatu ndi zisanu ndi zinayi
+90	makumi asanu ndi anayi
+91	makumi asanu ndi anayi ndi imodzi
+92	makumi asanu ndi anayi ndi ziwiri
+93	makumi asanu ndi anayi ndi zitatu
+94	makumi asanu ndi anayi ndi zinayi
+95	makumi asanu ndi anayi ndi zisanu
+96	makumi asanu ndi anayi ndi zisanu ndi imodzi
+97	makumi asanu ndi anayi ndi zisanu ndi ziwiri
+98	makumi asanu ndi anayi ndi zisanu ndi zitatu
+99	makumi asanu ndi anayi ndi zisanu ndi zinayi
+100	zana
+1000	chikwi
+10000	zikwi khumi
+100000	zikwi zana
+1000000	miliyoni imodzi
+10000000	mamiliyoni khumi
+100000000	mamiliyoni zana
+1000000000	biliyoni imodzi
+10000000000	mabiliyoni khumi
+100000000000	mabiliyoni zana

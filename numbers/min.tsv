@@ -1,0 +1,110 @@
+0	nol
+1	ciek
+2	duo
+3	tigo
+4	ampek
+5	limo
+6	anam
+7	tujuah
+8	lapan
+9	sambilan
+10	puluah
+11	puluah satu
+12	puluah duo
+13	puluah tigo
+14	puluah ampek
+15	puluah limo
+16	puluah anam
+17	puluah tujuah
+18	puluah lapan
+19	puluah sambilan
+20	duo puluah
+21	duo puluah satu
+22	duo puluah duo
+23	duo puluah tigo
+24	duo puluah ampek
+25	duo puluah limo
+26	duo puluah anam
+27	duo puluah tujuah
+28	duo puluah lapan
+29	duo puluah sambilan
+30	tigo puluah
+31	tigo puluah satu
+32	tigo puluah duo
+33	tigo puluah tigo
+34	tigo puluah ampek
+35	tigo puluah limo
+36	tigo puluah anam
+37	tigo puluah tujuah
+38	tigo puluah lapan
+39	tigo puluah sambilan
+40	ampek puluah
+41	ampek puluah satu
+42	ampek puluah duo
+43	ampek puluah tigo
+44	ampek puluah ampek
+45	ampek puluah limo
+46	ampek puluah anam
+47	ampek puluah tujuah
+48	ampek puluah lapan
+49	ampek puluah sambilan
+50	limo puluah
+51	limo puluah satu
+52	limo puluah duo
+53	limo puluah tigo
+54	limo puluah ampek
+55	limo puluah limo
+56	limo puluah anam
+57	limo puluah tujuah
+58	limo puluah lapan
+59	limo puluah sambilan
+60	anam puluah
+61	anam puluah satu
+62	anam puluah duo
+63	anam puluah tigo
+64	anam puluah ampek
+65	anam puluah limo
+66	anam puluah anam
+67	anam puluah tujuah
+68	anam puluah lapan
+69	anam puluah sambilan
+70	tujuah puluah
+71	tujuah puluah satu
+72	tujuah puluah duo
+73	tujuah puluah tigo
+74	tujuah puluah ampek
+75	tujuah puluah limo
+76	tujuah puluah anam
+77	tujuah puluah tujuah
+78	tujuah puluah lapan
+79	tujuah puluah sambilan
+80	lapan puluah
+81	lapan puluah satu
+82	lapan puluah duo
+83	lapan puluah tigo
+84	lapan puluah ampek
+85	lapan puluah limo
+86	lapan puluah anam
+87	lapan puluah tujuah
+88	lapan puluah lapan
+89	lapan puluah sambilan
+90	sambilan puluah
+91	sambilan puluah satu
+92	sambilan puluah duo
+93	sambilan puluah tigo
+94	sambilan puluah ampek
+95	sambilan puluah limo
+96	sambilan puluah anam
+97	sambilan puluah tujuah
+98	sambilan puluah lapan
+99	sambilan puluah sambilan
+100	ratuih
+1000	ribu
+10000	puluah ribu
+100000	ratuih ribu
+1000000	juta
+10000000	puluah juta
+100000000	ratuih juta
+1000000000	milyar
+10000000000	puluah milyar
+100000000000	ratuih milyar
