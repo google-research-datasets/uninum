@@ -5,7 +5,7 @@ made available by Google.
 
 In those languages where numbers take on different pronunciations depending on their morphosyntactic context, a citation form is given.
 
-See `codes.tsv` for the names and scripts involved.
+See [`codes.tsv`](codes.tsv) for the names and scripts involved.
 
 ## Errors
 
